@@ -6,7 +6,7 @@ public class Math_utils {
 		return a + b;
 	}
 
-	public int restar(int a, int b) {
+	public int subtract(int a, int b) {
 		return a - b;
 	}
 
