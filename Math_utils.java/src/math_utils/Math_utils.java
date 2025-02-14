@@ -6,8 +6,13 @@ public class Math_utils {
 		return a + b;
 	}
 
-	public int restart(int a, int b) {
+	public int restar(int a, int b) {
 		return a - b;
+	}
+
+	public int multiply(int a, int b) {
+
+		return a * b;
 	}
 
 }
